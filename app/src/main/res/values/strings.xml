@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Deportes</string>
+    <string name="todo">TODO</string>
+    <string name="baloncesto">Baloncesto</string>
+    <string name="beisbol">Béisbol</string>
+    <string name="ciclismo">Ciclismo</string>
+    <string name="futbol">Fútbol</string>
+    <string name="golf">Golf</string>
+    <string name="hipica">Hípica</string>
+    <string name="natacion">Natación</string>
+    <string name="pinpon">Pinpon</string>
+    <string name="tenis">Tenis</string>
+    <string name="recycler_view_image">Recycler view image</string>
+</resources>
